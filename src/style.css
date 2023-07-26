@@ -1,0 +1,22 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+
+
+.form{
+     background-color: antiquewhite;
+     margin-left: 30%;
+     width: 40%;
+     margin-top: 20px;
+     padding: 12px;
+}
+button{
+     margin-top: 20px;
+     margin-left: 20px;
+     height: 25px;
+     width: 140px
+     ;
+     color: aliceblue;
+     background-color: green;
+}
